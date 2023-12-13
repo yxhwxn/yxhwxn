@@ -1,7 +1,11 @@
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20yxhwxn's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=150)
-      
+  
+  [![yxhwxn's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxhwxn&hide=stars&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yxhwxn&layout=compact&theme=tokyonight)
+  
   ## 🔨 Tech Stack 🔨
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
       <!-- Backend -->
@@ -42,10 +46,6 @@
           <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
           <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">
       </div><br>
-
-  [![yxhwxn's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxhwxn&hide=stars&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yxhwxn&layout=compact&theme=tokyonight)
 
   ## 📞 Contact 📞
   <div style="display:flex; flex-direction:row;">
