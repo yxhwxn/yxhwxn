@@ -2,9 +2,10 @@
   
   ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20yxhwxn's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=150)
   
-  [![yxhwxn's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxhwxn&hide=stars&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yxhwxn&layout=compact&theme=tokyonight)
+
+  | <a href="https://github.com/yxhwxn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yxhwxn&hide=stars&theme=tokyonight&hide_border=true" alt="yxhwxn's github stats" /></a> | <a href="https://github.com/yxhwxn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxhwxn&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+  | ------------- | ------------- |
+
   
   ## 🔨 Tech Stack 🔨
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
