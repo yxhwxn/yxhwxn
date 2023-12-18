@@ -16,12 +16,6 @@
             <img src="https://img.shields.io/badge/Spring-success?style=flat-square&logo=Spring&logoColor=white"/></a>
             <img src="https://img.shields.io/badge/SpringBoot-success?style=flat-square&logo=Spring&logoColor=white"/></a>
             <img src="https://img.shields.io/badge/MySQL-yellow?style=flat-square&logo=MySQL&logoColor=white"/></a>
-            <img src="https://img.shields.io/badge/aws-orange?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
-      </div>
-      <!-- Database -->
-      <p><strong></strong></p>
-      <div>
-          <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
       </div>
       <!-- Server -->
       <p><strong></strong></p>
