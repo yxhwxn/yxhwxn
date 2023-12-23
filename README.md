@@ -1,8 +1,5 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20yxhwxn's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=150)
-  
-
   | <a href="https://github.com/yxhwxn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yxhwxn&hide=stars&theme=tokyonight&hide_border=true" alt="yxhwxn's github stats" /></a> | <a href="https://github.com/yxhwxn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxhwxn&layout=compact&theme=tokyonight&hide_border=true" /></a> |
   | ------------- | ------------- |
 
