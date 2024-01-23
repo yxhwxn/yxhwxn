@@ -11,5 +11,6 @@
 <a href="https://aws.amazon.com/ko/?nc2=h_lg"><img src="https://img.shields.io/badge/AWS-F89501?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>  
 
   
-  | <a href="https://github.com/yxhwxn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yxhwxn&hide=stars&theme=tokyonight&hide_border=true" alt="yxhwxn's github stats" /></a> | <a href="https://github.com/yxhwxn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxhwxn&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+  | <a href="https://github.com/yxhwxn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yxhwxn&hide=stars&theme=radical&hide_border=true" alt="yxhwxn's github stats" /></a> | <a href="https://github.com/yxhwxn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxhwxn&layout=compact&theme=radical&hide_border=true" /></a> |
   | ------------- | ------------- |
+
