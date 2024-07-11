@@ -21,7 +21,7 @@ I'm Yuhwan Hwang, and I'm a student interested in the Backend engineering and Cl
     <tr>
       <th style="width:20%;">Service</th>
       <th style="width:50%;">Description</th>
-      <th style="width:15%;">Period</th>
+      <th style="width:15%;">Time frame</th>
       <th style="width:15%;">Role</th>
     </tr>
     <tr>
