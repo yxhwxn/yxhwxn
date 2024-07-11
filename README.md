@@ -17,42 +17,42 @@ I'm Yuhwan Hwang, and I'm a student interested in the Backend engineering and Cl
 
 <div>
     <h2>Projects</h2>
-  <table>
+  <table style="width:100%; table-layout:fixed;">
     <tr>
-      <th>Service</th>
-      <th>Description</th>
-      <th>Period</th>
-      <th>Role</th>
+      <th style="width:20%;">Service</th>
+      <th style="width:50%;">Description</th>
+      <th style="width:15%;">Period</th>
+      <th style="width:15%;">Role</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/Central-MakeUs/suppin-server">🔹Suppin</a></td>
-      <td>인플루언서 이벤트 추첨 대행 서비스</td>
-      <td>2024.07 ~ ing</td>
-      <td>Backend</td>
+      <td style="word-wrap:break-word;"><a href="https://github.com/Central-MakeUs/suppin-server">🔹Suppin</a></td>
+      <td style="word-wrap:break-word;">인플루언서 이벤트 추첨 대행 서비스</td>
+      <td style="word-wrap:break-word;">2024.07 ~ ing</td>
+      <td style="word-wrap:break-word;">Backend</td>
     </tr>
     <tr>
-      <td><a href="">🔹Compath</a></td>
-      <td>경희대학교 위치 기반 네트워킹 서비스</td>
-      <td>2024.06 ~ ing</td>
-      <td>Backend</td>
+      <td style="word-wrap:break-word;"><a href="">🔹Compath</a></td>
+      <td style="word-wrap:break-word;">경희대학교 위치 기반 네트워킹 서비스</td>
+      <td style="word-wrap:break-word;">2024.06 ~ ing</td>
+      <td style="word-wrap:break-word;">Backend</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/khu-bigdata-project-team-5">🔹INFoU</a></td>
-      <td>빅데이터 기반, Udemy & Inflearn 강좌 추천 및 유저 커스텀 강좌 커리큘럼 제작 서비스</td>
-      <td>2024.04 ~ 2024.06</td>
-      <td>Backend</td>
+      <td style="word-wrap:break-word;"><a href="https://github.com/khu-bigdata-project-team-5">🔹INFoU</a></td>
+      <td style="word-wrap:break-word;">빅데이터 기반, Udemy & Inflearn 강좌 추천 및 유저 커스텀 강좌 커리큘럼 제작 서비스</td>
+      <td style="word-wrap:break-word;">2024.04 ~ 2024.06</td>
+      <td style="word-wrap:break-word;">Backend</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/THEGOODs-repo">🔹The-Goods</a></td>
-      <td>굿즈 통합 쇼핑몰 서비스</td>
-      <td>2023.12 ~ ing</td>
-      <td>Backend</td>
+      <td style="word-wrap:break-word;"><a href="https://github.com/THEGOODs-repo">🔹The-Goods</a></td>
+      <td style="word-wrap:break-word;">굿즈 통합 쇼핑몰 서비스</td>
+      <td style="word-wrap:break-word;">2023.12 ~ ing</td>
+      <td style="word-wrap:break-word;">Backend</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/FACETICKER">🔹Faceticker</a></td>
-      <td>N문 N답, 스티커를 활용한 SNS 서비스</td>
-      <td>2023.05 ~ 2022.08</td>
-      <td>Backend</td>
+      <td style="word-wrap:break-word;"><a href="https://github.com/FACETICKER">🔹Faceticker</a></td>
+      <td style="word-wrap:break-word;">N문 N답, 스티커를 활용한 SNS 서비스</td>
+      <td style="word-wrap:break-word;">2023.05 ~ 2022.08</td>
+      <td style="word-wrap:break-word;">Backend</td>
     </tr>
   </table>
 </div>
