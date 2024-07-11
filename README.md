@@ -38,8 +38,8 @@ I'm Yuhwan Hwang, and I'm a student interested in the Backend engineering and Cl
     </tr>
     <tr>
       <td style="word-wrap:break-word;"><a href="https://github.com/khu-bigdata-project-team-5">🔹INFoU</a></td>
-      <td style="word-wrap:break-word;">빅데이터 기반, Udemy & Inflearn 강좌 추천 및 유저 커스텀 강좌 커리큘럼 제작 서비스</td>
-      <td style="word-wrap:break-word;">2024.04 ~ 2024.06</td>
+      <td style="word-wrap:break-word;">빅데이터 기반, 강좌 추천 및 유저 커스텀 강좌 커리큘럼 제작 서비스</td>
+      <td style="word-wrap:break-word;">2024.04 ~ 06</td>
       <td style="word-wrap:break-word;">Backend</td>
     </tr>
     <tr>
@@ -51,7 +51,7 @@ I'm Yuhwan Hwang, and I'm a student interested in the Backend engineering and Cl
     <tr>
       <td style="word-wrap:break-word;"><a href="https://github.com/FACETICKER">🔹Faceticker</a></td>
       <td style="word-wrap:break-word;">N문 N답, 스티커를 활용한 SNS 서비스</td>
-      <td style="word-wrap:break-word;">2023.05 ~ 2022.08</td>
+      <td style="word-wrap:break-word;">2023.05 ~ 08</td>
       <td style="word-wrap:break-word;">Backend</td>
     </tr>
   </table>
