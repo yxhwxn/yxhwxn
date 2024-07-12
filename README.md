@@ -32,7 +32,7 @@ I'm Yuhwan Hwang, and I'm a student interested in the Backend engineering and Cl
       <td style="word-wrap:break-word;">Backend</td>
     </tr>
     <tr>
-      <td style="word-wrap:break-word;"><a href="">Compath / (KHU)</a></td>
+      <td style="word-wrap:break-word;"><a href="https://github.com/khu-compath">Compath / (KHU)</a></td>
       <td style="word-wrap:break-word;">경희대학교 위치 기반 네트워킹 서비스</td>
       <td style="word-wrap:break-word;">2024.06 ~ ing</td>
       <td style="word-wrap:break-word;">Backend</td>
