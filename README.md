@@ -3,6 +3,7 @@
 I'm Yuhwan Hwang, and I'm a student interested in the Backend engineering and Cloud.
 
 <div align=left>
+  <img src="https://komarev.com/ghpvc/?username=yxhwxn&color=blueviolet" alt="Profile Views"/>
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj="/>&nbsp
 </div>
 
@@ -25,31 +26,31 @@ I'm Yuhwan Hwang, and I'm a student interested in the Backend engineering and Cl
       <th style="width:15%;">Role</th>
     </tr>
     <tr>
-      <td style="word-wrap:break-word;"><a href="https://github.com/Central-MakeUs/suppin-server">🔹Suppin</a></td>
+      <td style="word-wrap:break-word;"><a href="https://github.com/Central-MakeUs/suppin-server">Suppin / (CMC)</a></td>
       <td style="word-wrap:break-word;">인플루언서 이벤트 추첨 대행 서비스</td>
       <td style="word-wrap:break-word;">2024.07 ~ ing</td>
       <td style="word-wrap:break-word;">Backend</td>
     </tr>
     <tr>
-      <td style="word-wrap:break-word;"><a href="">🔹Compath</a></td>
+      <td style="word-wrap:break-word;"><a href="">Compath / (KHU)</a></td>
       <td style="word-wrap:break-word;">경희대학교 위치 기반 네트워킹 서비스</td>
       <td style="word-wrap:break-word;">2024.06 ~ ing</td>
       <td style="word-wrap:break-word;">Backend</td>
     </tr>
     <tr>
-      <td style="word-wrap:break-word;"><a href="https://github.com/khu-bigdata-project-team-5">🔹INFoU</a></td>
+      <td style="word-wrap:break-word;"><a href="https://github.com/khu-bigdata-project-team-5">INFoU / (KHU)</a></td>
       <td style="word-wrap:break-word;">빅데이터 기반, 강좌 추천 및 유저 커스텀 강좌 커리큘럼 제작 서비스</td>
       <td style="word-wrap:break-word;">2024.04 ~ 06</td>
       <td style="word-wrap:break-word;">Backend</td>
     </tr>
     <tr>
-      <td style="word-wrap:break-word;"><a href="https://github.com/THEGOODs-repo">🔹The-Goods</a></td>
+      <td style="word-wrap:break-word;"><a href="https://github.com/THEGOODs-repo">The-Goods / (UMC)</a></td>
       <td style="word-wrap:break-word;">굿즈 통합 쇼핑몰 서비스</td>
       <td style="word-wrap:break-word;">2023.12 ~ ing</td>
       <td style="word-wrap:break-word;">Backend</td>
     </tr>
     <tr>
-      <td style="word-wrap:break-word;"><a href="https://github.com/FACETICKER">🔹Faceticker</a></td>
+      <td style="word-wrap:break-word;"><a href="https://github.com/FACETICKER">Faceticker / (UMC)</a></td>
       <td style="word-wrap:break-word;">N문 N답, 스티커를 활용한 SNS 서비스</td>
       <td style="word-wrap:break-word;">2023.05 ~ 08</td>
       <td style="word-wrap:break-word;">Backend</td>
