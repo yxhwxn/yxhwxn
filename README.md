@@ -38,7 +38,7 @@ I'm Yuhwan Hwang, and I'm a student interested in the Backend engineering and Cl
       <td style="word-wrap:break-word;">Backend</td>
     </tr>
     <tr>
-      <td style="word-wrap:break-word;"><a href="https://github.com/THEGOODs-repo">The-Goods / (UMC)</a></td>
+      <td style="word-wrap:break-word;"><a href="https://github.com/THEGOODs-repo/server">The-Goods / (UMC)</a></td>
       <td style="word-wrap:break-word;">굿즈 통합 쇼핑몰 서비스</td>
       <td style="word-wrap:break-word;">2023.12 ~ ing</td>
       <td style="word-wrap:break-word;">Backend</td>
