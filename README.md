@@ -44,7 +44,7 @@ I'm Yuhwan Hwang, and I'm a student interested in the Backend engineering and Cl
       <td style="word-wrap:break-word;">Backend</td>
     </tr>
     <tr>
-      <td style="word-wrap:break-word;"><a href="https://github.com/FACETICKER">Faceticker / (UMC)</a></td>
+      <td style="word-wrap:break-word;"><a href="https://github.com/FACETICKER/server">Faceticker / (UMC)</a></td>
       <td style="word-wrap:break-word;">N문 N답, 스티커를 활용한 SNS 서비스</td>
       <td style="word-wrap:break-word;">2023.05 ~ 08</td>
       <td style="word-wrap:break-word;">Backend</td>
