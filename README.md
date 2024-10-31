@@ -32,7 +32,7 @@ I'm Yuhwan Hwang, and I'm a student interested in the Backend engineering and Cl
       <td style="word-wrap:break-word;">Backend</td>
     </tr>
     <tr>
-      <td style="word-wrap:break-word;"><a href="https://github.com/khu-bigdata-project-team-5">INFoU / (KHU)</a></td>
+      <td style="word-wrap:break-word;"><a href="https://github.com/khu-bigdata-project-team-5/server">INFoU / (KHU)</a></td>
       <td style="word-wrap:break-word;">빅데이터 기반, 강좌 추천 및 유저 커스텀 강좌 커리큘럼 제작 서비스</td>
       <td style="word-wrap:break-word;">2024.04 ~ 06</td>
       <td style="word-wrap:break-word;">Backend</td>
