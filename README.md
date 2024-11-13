@@ -27,7 +27,7 @@ I'm Yuhwan Hwang, and I'm a student interested in the Backend engineering and Cl
     </tr>
     <tr>
       <td style="word-wrap:break-word;"><a href="https://github.com/yxhwxn/Auto-Steer">QueryTuning with AutoSteer</a></td>
-      <td style="word-wrap:break-word;">외부 최적화기를 활용한 RDBMS 쿼리 튜닝</td>
+      <td style="word-wrap:break-word;">머신러닝을 활용한 RDBMS 쿼리 튜닝</td>
       <td style="word-wrap:break-word;">2024.09 ~ ing</td>
       <td style="word-wrap:break-word;">Backend</td>
     </tr>
