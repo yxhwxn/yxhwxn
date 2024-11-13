@@ -20,7 +20,7 @@ I'm Yuhwan Hwang, and I'm a student interested in the Backend engineering and Cl
     <h2>Projects</h2>
   <table style="width:100%; table-layout:fixed;">
     <tr>
-      <th style="width:20%;">Service</th>
+      <th style="width:20%;">Project</th>
       <th style="width:50%;">Description</th>
       <th style="width:15%;">Time frame</th>
       <th style="width:15%;">Role</th>
