@@ -32,6 +32,12 @@ I'm Yuhwan Hwang, and I'm a student interested in the Backend engineering and Cl
       <td style="word-wrap:break-word;">Backend</td>
     </tr>
     <tr>
+      <td style="word-wrap:break-word;"><a href="https://github.com/Uni-Dthon-Team-4/server">Pick&Poly</a></td>
+      <td style="word-wrap:break-word;">LLM 기반 서울시 1인 가구 정책 추천 서비스</td>
+      <td style="word-wrap:break-word;">Uni-Dthon 4th</td>
+      <td style="word-wrap:break-word;">Backend</td>
+    </tr>
+    <tr>
       <td style="word-wrap:break-word;"><a href="https://github.com/Central-MakeUs/suppin-server">Suppin / (CMC)</a></td>
       <td style="word-wrap:break-word;">인플루언서 이벤트 추첨 대행 서비스</td>
       <td style="word-wrap:break-word;">2024.07 ~ ing</td>
@@ -40,19 +46,19 @@ I'm Yuhwan Hwang, and I'm a student interested in the Backend engineering and Cl
     <tr>
       <td style="word-wrap:break-word;"><a href="https://github.com/khu-bigdata-project-team-5/server">INFoU / (KHU)</a></td>
       <td style="word-wrap:break-word;">빅데이터 기반, 강좌 추천 및 유저 커스텀 강좌 커리큘럼 제작 서비스</td>
-      <td style="word-wrap:break-word;">2024.04 ~ 06</td>
+      <td style="word-wrap:break-word;">24.04 ~ 24.06</td>
       <td style="word-wrap:break-word;">Backend</td>
     </tr>
     <tr>
       <td style="word-wrap:break-word;"><a href="https://github.com/THEGOODs-repo/server">The-Goods / (UMC)</a></td>
       <td style="word-wrap:break-word;">굿즈 통합 쇼핑몰 서비스</td>
-      <td style="word-wrap:break-word;">2023.12 ~ ing</td>
+      <td style="word-wrap:break-word;">23.12 ~ 24.05</td>
       <td style="word-wrap:break-word;">Backend</td>
     </tr>
     <tr>
       <td style="word-wrap:break-word;"><a href="https://github.com/FACETICKER/server">Faceticker / (UMC)</a></td>
       <td style="word-wrap:break-word;">N문 N답, 스티커를 활용한 SNS 서비스</td>
-      <td style="word-wrap:break-word;">2023.05 ~ 08</td>
+      <td style="word-wrap:break-word;">23.05 ~ 23.08</td>
       <td style="word-wrap:break-word;">Backend</td>
     </tr>
   </table>
