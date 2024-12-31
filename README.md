@@ -17,7 +17,7 @@ I'm Yuhwan Hwang, and I'm a student interested in the Backend engineering and Cl
 ```
 
 <div>
-    <h2>Projects</h2>
+    <h2>📁 Projects</h2>
   <table style="width:100%; table-layout:fixed;">
     <tr>
       <th style="width:20%;">Project</th>
@@ -64,14 +64,18 @@ I'm Yuhwan Hwang, and I'm a student interested in the Backend engineering and Cl
   </table>
 </div>
 
-## Activities
+## 🚀 Activities
 
-- AUSG 8th (2024.07 ~ ing)
-- CMC 15th (2024.06 ~ 2024.09)
-- UMC 5th, spring (2023.09 ~ 2024.02)
-- UMC 4th, node.js (2023.03 ~ 2023.08)
+<h4 align=left>
+<li>경희대학교 컴퓨터공학부 <sub>(2018.03 ~ )</sub></li>
+<li>UMC 4th, Node.js <sub>(2023.03 ~ 2023.08)</sub></li>
+<li>UMC 5th, Spring <sub>(2023.09 ~ 2024.02)</sub></li>
+<li>CMC 15th, Server <sub>(2024.06 ~ 2024.09)</sub></li>
+<li>AUSG 8th <sub>(2024.07 ~ ing)</sub></li>
+<li>우리 FISA 4th <sub>(2024.12 ~ ing)</sub></li>
+</h4>
 
-## Tech Stack
+## 💻 Tech Stack
 
 <a href="https://www.java.com/ko/"><img src="https://img.shields.io/badge/Java-F58219?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/SpringBoot-6AAE3D?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
@@ -82,7 +86,7 @@ I'm Yuhwan Hwang, and I'm a student interested in the Backend engineering and Cl
 <a href="https://nodejs.org/en"><img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <a href="https://aws.amazon.com/ko/?nc2=h_lg"><img src="https://img.shields.io/badge/AWS-F89501?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>  
 
-## Contact
+### Contact
 
 <p>
   <a href="mailto:officeyh9819@gmail.com" target="_blank">
