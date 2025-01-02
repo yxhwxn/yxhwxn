@@ -72,6 +72,7 @@ I'm Yuhwan Hwang, and I'm a student interested in the Backend engineering and Cl
 <li>UMC 5th, Spring <sub>(2023.09 ~ 2024.02)</sub></li>
 <li>CMC 15th, Server <sub>(2024.06 ~ 2024.09)</sub></li>
 <li>AUSG 8th <sub>(2024.07 ~ ing)</sub></li>
+<li>CMC 16th, Server Lead <sub>(2024.11 ~ 2025.02)</sub></li>
 <li>우리 FISA 4th <sub>(2024.12 ~ ing)</sub></li>
 </h4>
 
