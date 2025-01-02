@@ -90,8 +90,8 @@ I'm Yuhwan Hwang, and I'm a student interested in the Backend engineering and Cl
 ### Contact
 
 <p>
-  <a href="mailto:officeyh9819@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/officeyh9819-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:yuhwan.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/yuhwan.dev-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>&nbsp
   <a href="https://www.instagram.com/hzyhxn/" target="_blank">
     <img src="https://img.shields.io/badge/hzyhxn-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
