@@ -20,3 +20,7 @@
 <li>CMC 16th, Server Lead <sub>(2024.11 ~ 2025.03)</sub></li>
 <li>우리 FISA 4th <sub>(2024.12 ~ ing)</sub></li>
 </h4>
+
+---
+
+![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yxhwxn&theme=nord_dark)
