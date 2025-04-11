@@ -23,4 +23,9 @@
 
 ---
 
-![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yxhwxn&theme=nord_dark)
+<table>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yxhwxn&theme=swift" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yxhwxn&theme=swift" /></td>
+  </tr>
+</table>
