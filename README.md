@@ -11,18 +11,6 @@
 
 ---
 
-<h4 align=left>
-<li>경희대학교 컴퓨터공학부 <sub>(2018.03 ~ )</sub></li>
-<li>UMC 4th, Node.js <sub>(2023.03 ~ 2023.08)</sub></li>
-<li>UMC 5th, Spring <sub>(2023.09 ~ 2024.02)</sub></li>
-<li>CMC 15th, Server <sub>(2024.06 ~ 2024.09)</sub></li>
-<li>AUSG 8th <sub>(2024.07 ~ ing)</sub></li>
-<li>CMC 16th, Server Lead <sub>(2024.11 ~ 2025.03)</sub></li>
-<li>우리 FISA 4th <sub>(2024.12 ~ ing)</sub></li>
-</h4>
-
----
-
 <table>
   <tr>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yxhwxn&theme=swift" /></td>
