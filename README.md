@@ -9,8 +9,6 @@
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj="/>&nbsp
 </div>
 
----
-
 <table>
   <tr>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yxhwxn&theme=swift" /></td>
