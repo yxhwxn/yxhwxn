@@ -11,7 +11,7 @@
 
 <table>
   <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yxhwxn&theme=swift" /></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yxhwxn&theme=swift" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=yxhwxn&theme=dark" alt="My GitHub Streak" style="display: inline-block; vertical-align: top;" width="424" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yxhwxn&theme=dark" /></td>
   </tr>
 </table>
