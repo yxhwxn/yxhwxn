@@ -2,7 +2,7 @@
 
 ### Hi, My name is Yuhwan Hwang 👨🏻‍💻
 
-> I'm interested in the Backend engineering and Cloud.
+> I'm interested in the Backend engineering and Deep dive.
 
 <div align=left>
   <img src="https://komarev.com/ghpvc/?username=yxhwxn&color=blueviolet" alt="Profile Views"/>
